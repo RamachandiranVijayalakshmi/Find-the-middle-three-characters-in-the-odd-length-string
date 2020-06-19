@@ -1,4 +1,4 @@
-## Finding-middle three characters in the odd length string 
+## Find the middle three characters in the odd length string 
 - Given a string of odd length greater 7
 - find the middle three character of the string
 
